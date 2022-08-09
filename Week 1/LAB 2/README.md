@@ -18,3 +18,5 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-vm
 Quickstart for Bash in Azure Cloud Shell
 
 https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+
+i have created a resource group annd a virtual macinne,it was coonnected and i was also able to understand the vm sizes and images.and also i ran so management tasks like creating a new folder etc.
