@@ -17,3 +17,8 @@ https://aws.amazon.com/getting-started/launch-a-virtual-machine-B-0/
 Quickstart for AWS CloudShell
 
 https://docs.aws.amazon.com/cloudshell/latest/userguide/working-with-cloudshell.html
+
+
+i have been able to launch the virtual machine.
+created the vps and tested port 80 and also connected the virtual machinne
+i was also able to install a web server and saw it in action
